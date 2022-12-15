@@ -7,7 +7,7 @@
 * Multi-threading Pool 實行多執行緒, 加快下載速度
 
 # 資料庫結構設計  
-* 抓取所有書本名稱及鏈結
+* 抓取所有書本名稱及鏈結  
 table_name = book   
 * 抓取所有章節名稱及鏈結   
 table_name = chapter    
